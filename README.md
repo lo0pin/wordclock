@@ -1,7 +1,3 @@
-Here’s a polished, clear, GitHub-ready English README for your **Word Clock (Wortuhr)** project — professional, technical, and concise, but with just enough flair to feel alive:
-
----
-
 # 🕒 Arduino Word Clock (Wortuhr) – DS1307 LED Time Display
 
 An Arduino-powered **word clock** that displays the current time using illuminated German words instead of digits.
@@ -108,6 +104,4 @@ EINS, ZWEI, DREI, VIER, FÜNF, SECHS, SIEBEN, ACHT, NEUN, ZEHN, ELF, ZWÖLF
 
 MIT – free to use, modify, and build upon.
 
----
 
-If you'd like, I can also generate a **banner image**, a **pinout diagram**, or a **short badge section** for the README.
