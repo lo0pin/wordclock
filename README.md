@@ -98,10 +98,17 @@ EINS, ZWEI, DREI, VIER, FÜNF, SECHS, SIEBEN, ACHT, NEUN, ZEHN, ELF, ZWÖLF
 * Optional DS3231 upgrade (better accuracy)
 * Night mode / PWM brightness control
 
+## 🛠️ BIG TODO:
+
+* rework all over
+* split in separate files
+* refactor
+
 ---
 
 ## 📜 License
 
 MIT – free to use, modify, and build upon.
+
 
 
