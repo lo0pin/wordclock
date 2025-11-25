@@ -183,6 +183,7 @@ void setup() {
   rtc.Begin();
 
   RtcDateTime compiled = RtcDateTime(__DATE__, __TIME__);
+  //rtc.SetDateTime(compiled);
 
   if (!rtc.IsDateTimeValid()) {
     if (rtc.LastError() != 0) {
@@ -365,3 +366,4 @@ void loop() {
 
   delay(900);  // 900 Millisekunden
 }
+
